@@ -1,3 +1,5 @@
+;1st attempt
+
 (define (sum-of-squares a b) (+ (* a a) (* b b)))
 
 (define (sum-of-two-largest a b c)
